@@ -1,0 +1,5 @@
+N1 = int(input("Digite um número"))
+R1 = (N1 - 1)
+R2 = (N1 + 1)
+print("O antecessor desse número é ", R1)
+print("O sucessor desse número é ", R2)

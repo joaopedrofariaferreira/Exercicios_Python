@@ -1,0 +1,7 @@
+VAR1 = input("Digite qualquer coisa ")
+print("Essa escrita faz parte do alfabeto? ", VAR1.isalpha())
+print("A escrita representa número e letra? ", VAR1.isalnum())
+print("O conteúdo etá em letra Minúscula? ", VAR1.islower())
+print("O conteúdo está em letra maiúscula?", VAR1.isupper())
+print("O conteúdo é númerico? ", VAR1.isnumeric())
+print("o timo primitivo é,", type(VAR1))

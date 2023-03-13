@@ -1,0 +1,12 @@
+#Tabuada de qualquer numero
+VAR1 = int(input("Digite um numero que você queira descobrir a tabuada: "))
+print(f"{VAR1} x {1} = {VAR1*1}")
+print(f"{VAR1} x {2} = {VAR1*2}")
+print(f"{VAR1} x {3} = {VAR1*3}")
+print(f"{VAR1} X {4} = {VAR1*4}")
+print(f"{VAR1} X {5} = {VAR1*5}")
+print(f"{VAR1} x {6} = {VAR1*6}")
+print(f"{VAR1} x {7} = {VAR1*7}")
+print(f"{VAR1} X {8} = {VAR1*8}")
+print(f"{VAR1} x {9} = {VAR1*9}")
+print(f"{VAR1} x {10} = {VAR1*10}")
